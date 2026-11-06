@@ -1,6 +1,8 @@
 # fraclogit
 Fractional logit model as implemented in Wedderburn (1974) and generalized by McCullagh (1983) Use fraclogit With STATA 19
 
+https://www.youtube.com/watch?v=yAKlgq-e90Y
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
